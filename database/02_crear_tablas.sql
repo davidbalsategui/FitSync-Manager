@@ -1,4 +1,4 @@
-USE fit_sync_manager; 
+USE fitsyncmanager; 
 
 -- Tabla socio 
 

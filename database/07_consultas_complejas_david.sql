@@ -1,4 +1,4 @@
-USE FitSyncManager;
+USE fitsyncmanager;
 
 -- Consulta 1: resumen económico de cada socio (nombre del socio, número de pagos realizados, pagos completados y pendientes) 
 
